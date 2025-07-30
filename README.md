@@ -1,5 +1,4 @@
-# Metal-Ligand Proton Tautomerism (MLPT)
-Kinetics analysis associated with "The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism" article
+# The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism
 
 Description:
 
