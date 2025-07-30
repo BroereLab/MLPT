@@ -1,9 +1,11 @@
-# MLPT
-Kinetics analysis associated with MLPT paper
+# Metal-Ligand Proton Tautomerism (MLPT)
+Kinetics analysis associated with "The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism" article
 
 Description:
 
-This repository contains Python scripts used for kinetic modeling and analysis in the study "The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism." The paper presents the first experimental evidence of quantum mechanical tunneling (QMT) in metal-ligand proton tautomerism (MLPT) in a ruthenium complex supported by a pyridine-based PN ligand.
+This repository contains Python scripts used for kinetic modeling and analysis in our study "The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism". The paper presents the first experimental evidence of quantum mechanical tunneling (QMT) in metal-ligand proton tautomerism (MLPT) in a ruthenium complex supported by a pyridine-based PN ligand.
+
+ChemRxiv: ####
 
 <img src="https://github.com/user-attachments/assets/6512e09d-9fa9-4cbc-ae5e-b18285c6c375" width="900">
 
