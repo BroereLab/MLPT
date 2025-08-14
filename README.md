@@ -4,7 +4,7 @@ Description:
 
 This repository contains Python scripts used for kinetic modeling and analysis in our study "The Role of Quantum Tunneling in Metal-Ligand Proton Tautomerism". The paper presents the first experimental evidence of quantum mechanical tunneling (QMT) in metal-ligand proton tautomerism (MLPT) in a ruthenium complex supported by a pyridine-based PN ligand.
 
-ChemRxiv: ####
+ChemRxiv: https://chemrxiv.org/engage/chemrxiv/article-details/689af93a23be8e43d6e30b77
 
 <img src="https://github.com/user-attachments/assets/6512e09d-9fa9-4cbc-ae5e-b18285c6c375" width="900">
 
