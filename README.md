@@ -16,7 +16,8 @@ Fitting of temperature-dependent rate data
 
 Visualization of Arrhenius and Eyring plots
 
-<img src="https://github.com/user-attachments/assets/becd0b29-6969-4aba-b019-a5d34aa0c3bd" width="600">
-
-
 These tools were used to dissect the mechanistic pathway of MLPT and to demonstrate that quantum tunneling plays a central role in the tautomerization process. Our findings show that tautomeric forms exhibit distinct reactivity and that QMT may be a general feature in pincer-type systems.
+
+The involvement of quantum mechanical tunneling was supported by Density Functional Theory (DFT) calculations and verified independently using Play-Doh modelling:
+
+<img src="https://github.com/user-attachments/assets/becd0b29-6969-4aba-b019-a5d34aa0c3bd" width="500">
