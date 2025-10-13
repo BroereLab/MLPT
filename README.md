@@ -6,7 +6,7 @@ This repository contains Python scripts used for kinetic modeling and analysis i
 
 ChemRxiv: https://chemrxiv.org/engage/chemrxiv/article-details/689af93a23be8e43d6e30b77
 
-<img src="https://github.com/user-attachments/assets/6512e09d-9fa9-4cbc-ae5e-b18285c6c375" width="800">
+![TOC](https://github.com/user-attachments/assets/7e96e159-fc38-4d0b-a482-abc1e9ba17f3)
 
 The scripts in this repository support:
 
